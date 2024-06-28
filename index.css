@@ -1,0 +1,41 @@
+.bg-container{
+    background-color: grey;
+    height: 100vh;
+    color: whitesmoke;
+    border-radius: 20px;
+}
+.heading{
+    font-size: 33px;
+    color: whitesmoke;
+    text-align: center;
+    padding: 25px;
+}
+.sub-container{
+    height: 100vh;
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+}
+.message-text{
+    height: 5vh;
+    font-size: 33px;
+    padding: 20px;
+    margin: 50px;
+}
+.send-message{
+    background-color: #5d8b8f;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 0px;
+    text-align: right;
+}
+
+.receive-message{
+    background-color: #7a6099;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 10px;
+    text-align: left;
+}
